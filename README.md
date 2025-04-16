@@ -25,6 +25,7 @@ Tiimijuhi valimine kulges samuti muretult – Rico pakkus ise, et võtab selle r
 Esmane kontakt kliendiga toimus 5. veebruaril meili teel, mille eesmärk oli kokku leppida esimene kohtumine. Selle kohtumise eesmärk oli üksteisega tuttavaks saada ning arutada projekti ootuste ja üldise suuna üle – nii kliendi kui ka meie vaatepunktist. Esimene kohtumine toimus 19. veebruaril Google Meeti kaudu. Kliendi poolt saime ülevaate tema eesmärkidest seoses projektiga, samuti vahetasime ideid ja mõtteid võimalike lahenduste osas. Kohtumine oli väga sisukas ja andis meile parema ettekujutuse sellest, mida süsteemne mõtlemine endast tegelikult kujutab ning millised on selle olulised aspektid. See aitas ka oluliselt selgemaks muuta meie arusaama projekti olemusest. Pärast esimest kohtumist jäi kõigile kodutööks otsida näiteid, mis arendavad süsteemset mõtlemist, ning teha lõplik otsus, millist tüüpi mängu soovime luua. Kliendiga suhtlemine oli väga positiivne ja meeldiv kogemus. Ta oli entusiastlik, toetav ja koostööaldis – selgelt oli näha, et tal on siiras soov suunata meid, et luua midagi, mis tõepoolest aitaks noortel süsteemset mõtlemist arendada. Üks peamisi tähelepanekuid oli, et kuigi esimene kohtumine võib olla pisut segadust tekitav ja kõik on veel üsna uus, aitas see meil olulisel määral paremini suunda tajuda. Mõistsime, kui tähtis on igaks kohtumiseks ette valmistuda – koguda meeskonna ideed, need omavahel läbi analüüsida ning esitada kliendile juba ühine ja läbimõeldud lahendusettepanek.
 
 **Mida teha järgmisel kohtumisel paremini:**
+
 - Valmistan selgemalt ette ideed ja küsimused, et arutelu oleks konkreetsem.
 - Kogun tiimi mõtted enne kohtumist kokku ja sõnastan neist ühe tugeva idee.
 - Püüan rohkem mõelda läbi, mida ma kliendilt teada tahan, et vestlus oleks veelgi sisukam.
@@ -33,24 +34,31 @@ Esmane kontakt kliendiga toimus 5. veebruaril meili teel, mille eesmärk oli kok
 Teise semestri esimene koolinädal, toimusid esimesed loengud, sealhulgas  suveprojekti tutvustav loeng, kus toimus ka juba meeskondade moodustamine. Esimesed sissejuhatavad loengud nii sissejuhatus infosüsteemidesse kui ka interaktsiooni disainis. Tiimi kujunemine läks muretult ja kiirelt, saime paika projekti teema väga sujuvalt, ilma erimeelsusteta, mida valisime infosüsteemide loengus. 
 
 **Sissejuhatus infosüsteemidesse**
+
 Toimus õppeainet sissejuhatav loeng, õppejõud Merle Laurits tutvustas end ning rääkis õppeaine ülesehitusest (ainemahust, hindamisest, tähtaegadest, õppekeskkonnast). Saime tutvuda ka valikus olnud suve projektidega. Esimesete teemadena oli juttu infosüsteemidest ja nende ajaloost ning andmebaasidest.
 
 **Interaktsiooni disain**
+
 Ka siin oli tegemist tutvustava loenguga, Õppejõud Mati Mõttus rääkis endast ning avas õppeaine sisu ja ülesehitust. Ootame põnevusega praktilisi ülesandeid.
 
 **Järgmise nädala plaan**
+
 Esimesel nädalal meil nii sissejuhatus infosüsteemidesse kui ka interaktsionidisainis midagi teha ei jäänud. Kodus jäi vaid mõelda esimesi mõtteid/ideesid projekti kohta.
 
 **Nädal 2: 10.02- 16.02**
+
 Sel nädalal pidi algselt toimuma meil ka esimene kohtumine kliendiga, kuid seoses aegade mittesobivusega, lükkus esmane kohtumine järgmise nädala keskele, mis meid ei seganud, saime veel nädala jagu oma mõtteid seedida projekti teemal.
 
 **Sissejuhatus infosüsteemidesse**
+
 Seekordne loeng tutvustati meile äriprotsesse ja koostööd, infosüsteemide erinevaid esinemisi, visuaalset modelleerimist ning UML põhielemente. Esimeseks koduseks ülesandeks jäi luua organisatsiooni üldvaade, mis oli päris keeruline, aga õppejõu erinevad näited aitasid meil siiski oma algse versiooni valmis saada, mida nädala jooksul veel ka hoogsalt parandasime/täiendasime.
 
 **Interaktsioonidisain**
+
 Toimus selle aine esimene praktikum, praktikumid toimuvad üle nädala. Seekordseks ülesandeks saime koostada oma projektiga sarnaste toodete kohta konkurentsianalüüsid, kus iga meeskonna liige pidi valima teatud mängu/toote, mida oli õppejõu poolt määratud võrdlus parameetrite alusel vaja võrrelda ning lõpuks ka neid omavahel võrrelda kindlate parameetrite alusel sai loodud võrdlev tabel testitud toodetest. Esimese ülesandena ei olnud see eriti raske, meist keegi ei tundnud, et oleks midagi üle jõu käinud ja saime konkurentsianalüüsi kokkuvõtte esitatud nädalalõpuks.
 
 **Järgmise nädala plaan**
+
 Lõpetada ära infosüsteemide loengus pooleli jäänud organisatsiooni ülevaade, mida otsustasime, et teeme uue nädala esmaspäeval, et juba kolmapäeval õppejõult selle kohta tagasisidet saada.
 
 
