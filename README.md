@@ -31,6 +31,7 @@ Esmane kontakt kliendiga toimus 5. veebruaril meili teel, mille eesmärk oli kok
 - Püüan rohkem mõelda läbi, mida ma kliendilt teada tahan, et vestlus oleks veelgi sisukam.
 
 **Nädal 1: 03.02- 09.02**
+
 Teise semestri esimene koolinädal, toimusid esimesed loengud, sealhulgas  suveprojekti tutvustav loeng, kus toimus ka juba meeskondade moodustamine. Esimesed sissejuhatavad loengud nii sissejuhatus infosüsteemidesse kui ka interaktsiooni disainis. Tiimi kujunemine läks muretult ja kiirelt, saime paika projekti teema väga sujuvalt, ilma erimeelsusteta, mida valisime infosüsteemide loengus. 
 
 **Sissejuhatus infosüsteemidesse**
@@ -64,20 +65,25 @@ Lõpetada ära infosüsteemide loengus pooleli jäänud organisatsiooni ülevaad
 
 
 **Nädal 3: 17.02 - 23.02**
+
 Sel nädalal toimus meil esimene kohtumine kliendiga (pikem jutt peatükkides “kliendiga suhtlemise algus” ja “mäng süsteemmõtlemise arendamiseks”). Infosüsteemide ja interaktsioonidisaini loengud jätkusid.
 Meie ülesandeks jäi erinevate näidete väljamõtlemine – kuidas meie ise oma mängu ette kujutame ja milliseid elemente võiks see sisaldada. Samal ajal pidime ka teistes ainetes projektiga seotud tabeleid ja jooniseid looma. See tähendas, et pidime õppima kasutama erinevaid programme ja tööriistu skeemide koostamiseks ning aru saama, milline info on oluline ja kuidas see süsteemselt kirja panna.
 Üldiselt oli see nädal sisseelamise ja mõtete struktureerimise aeg. Kuigi palju jäi veel lahtiseks, hakkas üldpilt vaikselt selgemaks saama.
 
 **Sissejuhatus infosüsteemidesse**
+
 Kolmanda nädala loengu teemaks olid protsessid, täpsemalt äriprotsesside modelleerimine. Tutvusime õppejõu poolt antud materjalidega, mis need äriprotsessid on ning milline võiks üks mudel välja näha. Kasutasime ka esmakordselt Bizagit, mis oli meile kõigile uus tööriist. Iseseisvaks koduseks ülesandeks jäi luua kõigi põhiprotsesside kirjeldus koos rollidega, kes tegutsevad. Igale protsessile pidi ka juurde lisama protsessidiagrammi/tegevusdiagrammi joonise ja täpsustavad tekstikirjeldused. 
 
 **Interaktsioonidisain**
+
 Toimus loeng persoonade ja stsenaariumite teemal. Saime ülevaate, mida need endast kujutavad, miks on need olulised toote disainiprotsessis ning kuidas ise persoonasid ja stsenaariume valmistada. Koduseks ülesandeks jäi vastavalt meie projektile nende loomisega pihta hakata.
 
 **Järgmise nädala plaan**
+
 Täiendada tagasiside põhjal varasemat ning uute ülesannetega tegelemine. Uus kohtumine kliendiga, et esitada oma ideed/visiooni.
 
 **Nädal 4: 24.02 - 02.03**
+
 Uus nädal, uue hooga, eelmisel nädalal loodud plaan, et täiendada interaktsioonidisainis loodud persoonasid ja stsenaariume ja infosüsteemis diagrammide koostamine õnnestusid ja jätkus ka sellel nädalal edasi. Kohtusime kliendiga, kus esitlesime oma ideed, millest lähemalt järgmises peatükis (liiklusmäng koos lühikirjeldusega). Klient oli meie ideega väga rahul, kinnitades meile, et saame üpris vabad käed, milline see mäng võiks olla, peaasi, et täidaks projekti eesmärgi, mis on juba alguses lahti kirjeldatud, seega oli meil hea meel, et saame luua asja, milles näeme ise suurt potensiaali, mis võiks olla põnev ja väljakutsuv samas ka arendav.
 
 **Liiklusmäng koos lühikirjeldusega.**
@@ -95,6 +101,7 @@ Tegevusdiagrammid: Igale põhiprotsessile üks diagramm (vajadusel ka alamprotse
 Seekord loengut ei toimunud, oli Vabariigi aastapäev. 
 
 **Järgmise nädala plaan**
+
 Jätkata tegevusdiagrammide loomist, mõelda edasi funktsionaalsuse poolt, vajadusel luua skeem/joonis. Olekudiagrammi puhul kasutasime õpetaja lisatud varasemaid näiteid, mille järgi koostada meie olekudiagrammi.
 
 **Nädal 5: 03.03 - 09.03**
@@ -104,11 +111,14 @@ Jätkata tegevusdiagrammide loomist, mõelda edasi funktsionaalsuse poolt, vajad
 Õppejõu haigestumise tõttu jäi ka see nädal interaktsioonidisaini tund ära. See nädal oleks pidanud taas praktikum olema, mille slaidid palus Mati iseseisvalt läbi vaadata. Iseseisva materjal all oli täiendada teadmisi persoonade ja stsenaariumitega. Kuna ülesande maht oli suur, jagasime persoonad omavahel ära ja hakkasime vaikselt persoonade ja nendele vastavate stsenaariumite koostamisega pihta. See ülesanne aitas paremini mõista kasutajate vajadusi ja käitumismustreid, mis on olulised edasises arendustöös.
 
 **Sissejuhatus infosüsteemidesse**
+
 Uut teemat me sel nädalal ei võtnud vaid esitasime oma töid seniks valmis tehtud töid, et saada ülevaade kui kaugel kõik oma grupitöödega on, saime tagasisidet ning tegime vajalikke täiendusi. Esitluste käigus oli kasulik näha erinevaid lähenemisviise ning saada juhendajalt ja kaaslastelt konstruktiivset tagasisidet, mis aitas täeindusi teha. Samuti tuli kasuks ka teiste kursusekaaslaste tööde vaatamine, see andis ideid ka endal mõne punkti puhul teise nurga alt läheneda. Peamisteks täiendusteks olid detailide lisamine ja jooniste täiendamine süsteemi ja andmebaasi vaatega. 
 **Järgmise nädala plaan**
+
 Infosüsteemide peamisteks täiendusteks jäi mõnes peatükis pisidetailide lisamine ja jooniste täiendamine süsteemi ja andmebaasi vaatega. 
 
 **Nädal 6: 10.03 - 16.03**
+
 Uus nädal, sellel nädalal leppisime ka kohtumise kliendiga uueks nädalaks, et ära täpsustada mängu väljundid, kus interaktsioonidisaini õppejõud soovis meilt haridus väljundit, kuid meie projekt on rohkem mänguline ja kindal eesmärgiga nagu klient soovis - arendada süsteemset mõtlemist ja teise järguliselt aidata ka õpilastel liikluse mõistmist arendada.
 
 **Sissejuhatus infosüsteemidesse**
@@ -128,6 +138,7 @@ Viia läbi disainisessioon, mis meil oli puudu, et saaksime oma persoonasid ja s
 
 
 **Nädal 7: 17.03 - 23.03**
+
 Kohtusime oma juhendaja (mängu tellijaga) 21.03, et viia läbi disainisessioon loodava mängu osas õppetöö raames. Esitasime talle parandatud persoonad ja stsenaariumid, et saada tagasisidet nii temalt kui kliendilt kui ka kahelt õpilaselt, kes kuuluvad meie mängu sihtgrupi põhifookusesse. See aitas meil paremini mõista, kuivõrd õpilased meie loodud stsenaariumitega nõustuvad, mida saaks parandada ning mida oleks kasulik juurde lisada.
 
 **Sissejuhatus infosüsteemidesse**
@@ -143,6 +154,7 @@ Kõigepealt saime personaalset tagasisidet rühmadega eelmise kodutöö (persoon
 Täiendada persoonasid ja stsenaariumeid õppejõu tagasiside põhjal. Kasutajalugude kirja panemine ja nende täiendamine koos voodiagrammiga.
 
 **Nädal 8: 24.03 - 30.03**
+
 Koolis oli vahenädal. Tegelesime interaktsioonidisaini ülesannetega, millest kirjutan allpool lähemalt. Meie soov on oma projektis kasutada mängumootorina unity-t siis nädala teises pooles alustasime igaüks iseseisvalt Unity õppimist Udemy keskkonnas, sest tundsime, et koolis pakutav õpe käsitleb Unityt veidi pinnapealselt ja liigub aeglaselt. Soovisime intensiivsemat õpikoormust, et omandada Unity põhiteadmised ja -oskused ning olla peagi valmis esimese mängu prototüübi loomiseks, mis annaks meile ette suurema pildi projektist, kui praegu on.
 
 **Sissejuhatus infosüsteemidesse**
@@ -159,6 +171,7 @@ Jätkata kasutajalugude ja voodiagrammi koostamist.
 
 
 **Nädal 9: 01.04 - 06.04**
+
 Vahenädal sai läbi ja oli aeg uuesti alustada. Peamised ülesanded selleks nädalaks oli lõpuks esitada oma kasutajalood ja voodiagramm. Selleks arutasime tiimis mitmeid olulisi detaile – näiteks kuidas mängija liigub läbi erinevate vaadete (nt sisselogimine, õpetusvideo, tasemete valik), kuidas salvestub mängija progress ning millal kuvatakse edetabel. Need arutelud aitasid meil täpsemalt läbi mõelda kasutajateekonna ning seejärel koostada selle põhjal loogiline voodiagramm.
 
 **Sissejuhatus infosüsteemidesse**
@@ -172,17 +185,21 @@ Loengus tutvustas õppejõud Mati Mõttus LoFi prototüüpe. LoFi prototüübid 
 Alustasime ka kasutajalugude diagrammi koostamist ja wireframe’ide koostamist. Kuna kasutajalood olid valmis, ei olnud see liigselt raske. Töö tehtud, jääme tagasisidet ootama.
 
 **Järgmise nädala plaan**
+
 Vastavalt tagasisidele, parandada oma varasemaid töid.
 
 **Nädal 10: 07.04 - 13.04**
 
 **Sissejuhatus infosüsteemidesse**
+
 Selle nädala infosüsteemide kursuse tunni teema oli andmemudeli koostamine. Ülesandeks oli koostada objektide ja seoste diagramm(ERD) enda mängule. Diagrammi loomine läks meil sujuvalt. Me kasutasime diagrammi loomiseks Vertabelot, mis on meile kõigile tuttav. Panime paika esialgsed olemid ja nendevahelised seosed. Jääme tagasisidet ootama.
 
 **Interaktsioonidisain**
+
 Selle nädala loengus keskendusime jällegi LoFi ja HiFi kasutajaliidese prototüüpimisele. Rääkisime, kuidas LoFi prototüübid aitavad kiirelt ideid testida ja kasutajavooge visualiseerida, samas kui HiFi prototüübid on detailsemad ja sobivad paremini kasutajatestideks.
 Meie fokuseerisime LoFi prototüüpimisele, ehk me mõtlesime üle oma rakenduse põhifunktsioonid ja siis visualeerisime need. Eesmärgiks oli luua madala täpsusega prototüübid, mis keskenduvad kasutajaliidese põhifunktsioonidele. Kasutades Figma, lõime prototüüpe, millel olid kõik vajalikud interaktiivsed elemendid, kuid visuaalne disain jäi alguses üsna lihtsaks. Selline lähenemine andis meile võimaluse keskenduda sellele, kuidas süsteem töötab ja kuidas kasutajad saavad erinevaid funktsioone kasutada.
 
 **Järgmise nädala plaan**
+
 Plaan on näidata meie tehtud tööd ja saada sellele tagasisidet.
 
