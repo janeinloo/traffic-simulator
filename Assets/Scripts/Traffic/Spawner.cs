@@ -13,8 +13,18 @@ public class Spawner : MonoBehaviour
 
   void SpawnCar()
   {
+    if (carPrefab == null)
+    {
+      Debug.LogWarning("Spawner has no carPrefab assigned!");
+      return;
+    }
+
     GameObject car = Instantiate(carPrefab, spawnWaypoint.transform.position, Quaternion.identity);
-    CarController carScript = car.GetComponent<CarController>();
-    carScript.currentWaypoint = spawnWaypoint;
+
+    if (car != null && spawnWaypoint != null)
+    {
+      CarController carScript = car.GetComponent<CarController>();
+      carScript.currentWaypoint = spawnWaypoint;
+    }
   }
 }
