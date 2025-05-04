@@ -1,13 +1,31 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Waypoint : MonoBehaviour
 {
-    public Waypoint nextWaypoint;
+    [Header("Graph Connections")]
+    public List<Waypoint> connectedWaypoints = new List<Waypoint>();
+
+    [Header("Optional - Debug")]
+    public bool showConnections = true;
 
     private void OnDrawGizmos()
     {
-      Gizmos.color = Color.yellow;
-      if (nextWaypoint != null)
-        Gizmos.DrawLine(transform.position, nextWaypoint.transform.position);
+        if (!showConnections || connectedWaypoints == null) return;
+
+        Gizmos.color = Color.cyan;
+
+        foreach (var neighbor in connectedWaypoints)
+        {
+            if (neighbor != null)
+            {
+                Gizmos.DrawLine(transform.position, neighbor.transform.position);
+                Gizmos.DrawSphere(neighbor.transform.position, 0.05f);
+            }
+        }
+
+        Gizmos.color = Color.green;
+        Gizmos.DrawSphere(transform.position, 0.07f); // draw self too
     }
 }
+
