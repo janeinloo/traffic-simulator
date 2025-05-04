@@ -236,7 +236,7 @@ Transform:
   m_GameObject: {fileID: 54883937}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 1.264, z: 0}
+  m_LocalPosition: {x: -0, y: 1.468, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -254,7 +254,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 183963564}
+  - {fileID: 644906878}
   showConnections: 1
 --- !u!1 &111770668
 GameObject:
@@ -746,7 +748,7 @@ GameObject:
   - component: {fileID: 183963563}
   - component: {fileID: 183963564}
   m_Layer: 0
-  m_Name: Waypoint_S-N 3
+  m_Name: Waypoint_S-N 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -779,7 +781,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 377736748}
+  - {fileID: 54883939}
   showConnections: 1
 --- !u!1 &223472166
 GameObject:
@@ -950,7 +954,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1084873084}
+  - {fileID: 885047249}
   showConnections: 1
 --- !u!1 &374188422
 GameObject:
@@ -1096,7 +1102,7 @@ GameObject:
   - component: {fileID: 377736747}
   - component: {fileID: 377736748}
   m_Layer: 0
-  m_Name: Waypoint_S-N 2
+  m_Name: Waypoint_S-N 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1129,7 +1135,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1390440208}
+  - {fileID: 183963564}
   showConnections: 1
 --- !u!1 &411441434
 GameObject:
@@ -2271,7 +2279,7 @@ Transform:
   m_GameObject: {fileID: 644248951}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.36, y: 0.257, z: 0}
+  m_LocalPosition: {x: -0.34, y: 0.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2335,7 +2343,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 54883939}
+  - {fileID: 959997148}
   showConnections: 1
 --- !u!1 &659978400
 GameObject:
@@ -2728,7 +2738,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 885047249}
   showConnections: 1
 --- !u!1 &882179212
 GameObject:
@@ -2910,7 +2921,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 255194323}
+  - {fileID: 819237909}
   showConnections: 1
 --- !u!1 &931795765
 GameObject:
@@ -3023,7 +3036,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 644906878}
+  - {fileID: 1413275667}
   showConnections: 1
 --- !u!1 &1042228725
 GameObject:
@@ -3250,7 +3265,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 255194323}
+  - {fileID: 1936727074}
   showConnections: 1
 --- !u!1 &1152063606
 GameObject:
@@ -3263,7 +3280,7 @@ GameObject:
   - component: {fileID: 1152063607}
   - component: {fileID: 1152063608}
   m_Layer: 0
-  m_Name: Waypoint_S-N 2 (3)
+  m_Name: Waypoint_S-E 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3296,7 +3313,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1374883931}
+  - {fileID: 1936727074}
   showConnections: 1
 --- !u!1 &1165343204
 GameObject:
@@ -3465,7 +3484,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1205236465}
   showConnections: 1
 --- !u!4 &1180717560
 Transform:
@@ -3603,8 +3623,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
-  showConnections: 1
+  connectedWaypoints:
+  - {fileID: 1606155709}
+  - {fileID: 1205236465}
+  showConnections: 0
 --- !u!4 &1205236466
 Transform:
   m_ObjectHideFlags: 0
@@ -4360,7 +4382,7 @@ GameObject:
   - component: {fileID: 1374883930}
   - component: {fileID: 1374883931}
   m_Layer: 0
-  m_Name: Waypoint_S-N 2 (2)
+  m_Name: Waypoint_S-E 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4393,7 +4415,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 2031455670}
+  - {fileID: 1152063608}
   showConnections: 1
 --- !u!1 &1390440207
 GameObject:
@@ -4424,7 +4448,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1606155709}
+  - {fileID: 1606116733}
   showConnections: 1
 --- !u!4 &1390440209
 Transform:
@@ -4435,7 +4461,7 @@ Transform:
   m_GameObject: {fileID: 1390440207}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.103, z: 0}
+  m_LocalPosition: {x: 0, y: 0.097, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4485,7 +4511,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 959997148}
   showConnections: 1
 --- !u!1 &1414117744
 GameObject:
@@ -4917,7 +4944,7 @@ GameObject:
   - component: {fileID: 1606116732}
   - component: {fileID: 1606116733}
   m_Layer: 0
-  m_Name: Waypoint_S-N 1
+  m_Name: Waypoint_S-Gen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4950,7 +4977,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1390440208}
+  - {fileID: 2031455670}
+  - {fileID: 377736748}
   showConnections: 1
 --- !u!1 &1606155708
 GameObject:
@@ -4981,7 +5011,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1205236465}
+  - {fileID: 1390440208}
   showConnections: 1
 --- !u!4 &1606155710
 Transform:
@@ -5515,7 +5547,7 @@ Transform:
   m_GameObject: {fileID: 1923815454}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.354, y: 1.264, z: 0}
+  m_LocalPosition: {x: -0.354, y: 1.468, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8797,7 +8829,7 @@ GameObject:
   - component: {fileID: 1936727073}
   - component: {fileID: 1936727074}
   m_Layer: 0
-  m_Name: Waypoint_S-N 2 (4)
+  m_Name: Waypoint_S-E 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8830,7 +8862,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1152063608}
+  - {fileID: 1084873084}
   showConnections: 1
 --- !u!1 &1952055148
 GameObject:
@@ -8928,7 +8962,7 @@ GameObject:
   - component: {fileID: 2031455669}
   - component: {fileID: 2031455670}
   m_Layer: 0
-  m_Name: Waypoint_S-N 2 (1)
+  m_Name: Waypoint_S-E 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8961,7 +8995,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1606116733}
+  - {fileID: 1374883931}
   showConnections: 1
 --- !u!1 &2139515602
 GameObject:
