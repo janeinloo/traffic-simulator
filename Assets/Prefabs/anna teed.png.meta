@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      anna teed_0: 2357194353040258468
+      anna teed_1: -6444063541426759326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

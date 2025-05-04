@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pixel-art-traffic-light-game-asset-design-vector_0: -1701585469245021552
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
