@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 137687}
   m_Layer: 0
   m_Name: ExitZone_west
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -302,7 +302,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 588011943}
   showConnections: 1
 --- !u!1 &120234180
 GameObject:
@@ -663,7 +664,7 @@ GameObject:
   m_Component:
   - component: {fileID: 169229078}
   m_Layer: 0
-  m_Name: Southward
+  m_Name: Northbound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1745,7 +1746,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1925564647}
   showConnections: 1
 --- !u!4 &588011944
 Transform:
@@ -2394,6 +2396,37 @@ MonoBehaviour:
   carPrefab: {fileID: 7061413436835980227, guid: 8fe3fc29896b84f7b8e04e87364cf9b8, type: 3}
   spawnWaypoint: {fileID: 111770670}
   spawnInterval: 3
+--- !u!1 &660890633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 660890634}
+  m_Layer: 0
+  m_Name: East_to_North
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &660890634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 660890633}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 942604195}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &723684833
 GameObject:
   m_ObjectHideFlags: 0
@@ -2990,6 +3023,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 169229078}
+  - {fileID: 660890634}
   m_Father: {fileID: 571105153}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &959997146
@@ -3377,7 +3411,7 @@ GameObject:
   - component: {fileID: 1172027314}
   m_Layer: 0
   m_Name: ExitZone_east
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3626,7 +3660,7 @@ MonoBehaviour:
   connectedWaypoints:
   - {fileID: 1606155709}
   - {fileID: 1205236465}
-  showConnections: 0
+  showConnections: 1
 --- !u!4 &1205236466
 Transform:
   m_ObjectHideFlags: 0
@@ -4036,7 +4070,7 @@ GameObject:
   - component: {fileID: 1323005516}
   m_Layer: 0
   m_Name: ExitZone_north
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4764,7 +4798,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 183963564}
   showConnections: 1
 --- !u!4 &1538863662
 Transform:
@@ -4794,7 +4829,7 @@ GameObject:
   - component: {fileID: 1589428446}
   m_Layer: 0
   m_Name: ExitZone_south
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4959,7 +4994,7 @@ Transform:
   m_GameObject: {fileID: 1606116731}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.008, y: 0.263, z: 0}
+  m_LocalPosition: {x: 0.009, y: 0.252, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5594,7 +5629,7 @@ Transform:
   m_GameObject: {fileID: 1923839671}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.015168548, y: 0.01516819, z: 0}
+  m_LocalPosition: {x: 0.11, y: 0.14, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8755,7 +8790,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1538863661}
   showConnections: 1
 --- !u!4 &1925564648
 Transform:
