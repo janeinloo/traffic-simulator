@@ -236,7 +236,7 @@ Transform:
   m_GameObject: {fileID: 54883937}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003, y: 1.519, z: 0}
+  m_LocalPosition: {x: 0.003, y: 1.552, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -256,9 +256,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 644906878}
-  - {fileID: 183963564}
-  - {fileID: 1481864191}
-  - {fileID: 494449618}
   showConnections: 1
 --- !u!1 &111770668
 GameObject:
@@ -352,7 +349,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1625163953}
   - {fileID: 1067990479}
   showConnections: 1
 --- !u!1 &148291781
@@ -400,7 +396,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 295005413}
   - {fileID: 1605576689}
   showConnections: 1
 --- !u!1 &157035091
@@ -550,7 +545,7 @@ Transform:
   m_GameObject: {fileID: 164482609}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.347, y: 2.353, z: 0}
+  m_LocalPosition: {x: -0.354, y: 2.346, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -569,7 +564,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 469218680}
   - {fileID: 1923815456}
   showConnections: 1
 --- !u!1 &165132732
@@ -794,7 +788,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1478446969}
   - {fileID: 745238290}
   showConnections: 1
 --- !u!1 &178029344
@@ -827,7 +820,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 763666447}
   - {fileID: 862553198}
   showConnections: 1
 --- !u!4 &178029346
@@ -875,7 +867,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 364400981}
   - {fileID: 1084873084}
   showConnections: 1
 --- !u!4 &181181022
@@ -919,7 +910,7 @@ Transform:
   m_GameObject: {fileID: 183963562}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003000021, y: 1.349, z: 0}
+  m_LocalPosition: {x: -0.004, y: 1.356, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -938,7 +929,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 377736748}
   - {fileID: 54883939}
   showConnections: 1
 --- !u!1 &223472166
@@ -1092,7 +1082,7 @@ Transform:
   m_GameObject: {fileID: 255194321}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.32, y: 0.582, z: 0}
+  m_LocalPosition: {x: 2.313, y: 0.593, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1111,7 +1101,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1084873084}
   - {fileID: 885047249}
   showConnections: 1
 --- !u!1 &295005412
@@ -1144,9 +1133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1538863661}
   - {fileID: 148291783}
-  - {fileID: 769033180}
   showConnections: 1
 --- !u!4 &295005414
 Transform:
@@ -1193,7 +1180,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1457241058}
   - {fileID: 1708937366}
   showConnections: 1
 --- !u!4 &345331905
@@ -1241,7 +1227,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 745238290}
   - {fileID: 181181021}
   showConnections: 1
 --- !u!4 &364400982
@@ -1437,7 +1422,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1390440208}
   - {fileID: 183963564}
   showConnections: 1
 --- !u!1 &379726000
@@ -1485,7 +1469,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1296483832}
   - {fileID: 494449618}
   showConnections: 1
 --- !u!1 &411441434
@@ -1708,7 +1691,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1202310168}
   - {fileID: 164482611}
   showConnections: 1
 --- !u!1 &493451990
@@ -1879,8 +1861,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 379726002}
-  - {fileID: 644248953}
+  - {fileID: 54883939}
   showConnections: 1
 --- !u!4 &494449619
 Transform:
@@ -1972,7 +1953,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1310648917}
   - {fileID: 644248953}
   showConnections: 1
 --- !u!4 &506933529
@@ -2194,7 +2174,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 1925564647}
-  - {fileID: 111770670}
   showConnections: 1
 --- !u!4 &588011944
 Transform:
@@ -2241,7 +2220,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1708937366}
   - {fileID: 644248953}
   showConnections: 1
 --- !u!4 &588685216
@@ -2472,7 +2450,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1606116733}
   - {fileID: 617809281}
   showConnections: 1
 --- !u!4 &596418974
@@ -2655,7 +2632,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 596418973}
   - {fileID: 858686700}
   showConnections: 1
 --- !u!4 &617809282
@@ -2980,9 +2956,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 1197344336}
-  - {fileID: 506933528}
-  - {fileID: 1632034452}
-  - {fileID: 588685215}
   showConnections: 1
 --- !u!1 &644906876
 GameObject:
@@ -3010,7 +2983,7 @@ Transform:
   m_GameObject: {fileID: 644906876}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0069999993, y: 2.353, z: 0}
+  m_LocalPosition: {x: -0, y: 2.353, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3029,7 +3002,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 54883939}
   - {fileID: 959997148}
   showConnections: 1
 --- !u!1 &659978400
@@ -3109,7 +3081,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1923815456}
   - {fileID: 763666447}
   - {fileID: 1310648917}
   - {fileID: 591952280}
@@ -3123,7 +3094,7 @@ Transform:
   m_GameObject: {fileID: 716750397}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.354, y: 1.348, z: 0}
+  m_LocalPosition: {x: -0.347, y: 1.361, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3373,7 +3344,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 591952280}
   - {fileID: 1940401054}
   showConnections: 1
 --- !u!4 &739023669
@@ -3421,11 +3391,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 174191233}
   - {fileID: 1467572597}
   - {fileID: 364400981}
   - {fileID: 1296483832}
-  showConnections: 0
+  showConnections: 1
 --- !u!4 &745238291
 Transform:
   m_ObjectHideFlags: 0
@@ -3471,7 +3440,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 716750398}
   - {fileID: 178029345}
   showConnections: 1
 --- !u!4 &763666448
@@ -3519,7 +3487,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1698650766}
   - {fileID: 1632034452}
   showConnections: 1
 --- !u!4 &765626635
@@ -3567,7 +3534,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1457241058}
   - {fileID: 1796235109}
   showConnections: 1
 --- !u!4 &769033181
@@ -3683,7 +3649,7 @@ GameObject:
   - component: {fileID: 819237909}
   m_Layer: 0
   m_Name: Waypoint_east_exit
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3748,7 +3714,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 617809281}
   - {fileID: 1952055150}
   showConnections: 1
 --- !u!4 &858686701
@@ -3796,7 +3761,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 178029345}
   - {fileID: 1807581382}
   showConnections: 1
 --- !u!4 &862553199
@@ -3995,7 +3959,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 255194323}
   - {fileID: 819237909}
   showConnections: 1
 --- !u!1 &908263711
@@ -4154,7 +4117,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 644906878}
   - {fileID: 1413275667}
   showConnections: 1
 --- !u!1 &1042228725
@@ -4304,7 +4266,7 @@ GameObject:
   - component: {fileID: 1067990479}
   m_Layer: 0
   m_Name: Waypoint_west_exit
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4385,9 +4347,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 255194323}
-  - {fileID: 1936727074}
-  - {fileID: 181181021}
-  - {fileID: 1940401054}
   showConnections: 1
 --- !u!1 &1152063606
 GameObject:
@@ -4434,7 +4393,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1374883931}
   - {fileID: 1936727074}
   showConnections: 1
 --- !u!1 &1165343204
@@ -4667,7 +4625,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 644248953}
   - {fileID: 1870693283}
   showConnections: 1
 --- !u!1 &1202310166
@@ -4714,7 +4671,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 469218680}
   showConnections: 1
 --- !u!1 &1205236464
 GameObject:
@@ -4747,8 +4705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 1606155709}
-  - {fileID: 1205236465}
-  showConnections: 0
+  showConnections: 1
 --- !u!4 &1205236466
 Transform:
   m_ObjectHideFlags: 0
@@ -4809,7 +4766,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1930271564}
   - {fileID: 1478446969}
   showConnections: 1
 --- !u!1 &1244569095
@@ -4824,7 +4780,7 @@ GameObject:
   - component: {fileID: 1244569097}
   m_Layer: 0
   m_Name: Waypoint_south_exit
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4856,8 +4812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints:
-  - {fileID: 1870693283}
+  connectedWaypoints: []
   showConnections: 1
 --- !u!1 &1268369977
 GameObject:
@@ -5045,7 +5000,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 745238290}
   - {fileID: 379726002}
   showConnections: 1
 --- !u!4 &1296483833
@@ -5093,7 +5047,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 716750398}
   - {fileID: 506933528}
   showConnections: 1
 --- !u!4 &1310648918
@@ -5637,7 +5590,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 2031455670}
   - {fileID: 1152063608}
   showConnections: 1
 --- !u!1 &1390440207
@@ -5671,7 +5623,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 1606116733}
-  - {fileID: 1606155709}
   showConnections: 1
 --- !u!4 &1390440209
 Transform:
@@ -5700,7 +5651,7 @@ GameObject:
   - component: {fileID: 1413275667}
   m_Layer: 0
   m_Name: Waypoint_north_exit
-  m_TagString: Untagged
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5732,8 +5683,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints:
-  - {fileID: 959997148}
+  connectedWaypoints: []
   showConnections: 1
 --- !u!1 &1414117744
 GameObject:
@@ -5804,8 +5754,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1538863661}
+  - {fileID: 345331904}
   - {fileID: 295005413}
+  - {fileID: 769033180}
   showConnections: 1
 --- !u!4 &1457241059
 Transform:
@@ -5988,7 +5939,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 745238290}
   - {fileID: 1698650766}
   showConnections: 1
 --- !u!4 &1467572598
@@ -6051,7 +6001,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1217707949}
   - {fileID: 174191233}
   showConnections: 1
 --- !u!1 &1481864189
@@ -6099,7 +6048,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1605576689}
   - {fileID: 54883939}
   showConnections: 1
 --- !u!1 &1538863660
@@ -6132,7 +6080,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1925564647}
   - {fileID: 1457241058}
   showConnections: 1
 --- !u!4 &1538863662
@@ -6388,7 +6335,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 148291783}
   - {fileID: 1481864191}
   showConnections: 1
 --- !u!1 &1606116731
@@ -6436,7 +6382,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1390440208}
   - {fileID: 2031455670}
   - {fileID: 377736748}
   - {fileID: 596418973}
@@ -6471,7 +6416,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1205236465}
   - {fileID: 1390440208}
   showConnections: 1
 --- !u!4 &1606155710
@@ -6535,7 +6479,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 120234182}
-  - {fileID: 1952055150}
   showConnections: 1
 --- !u!1 &1632034450
 GameObject:
@@ -6582,7 +6525,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 765626634}
   - {fileID: 644248953}
   showConnections: 1
 --- !u!1 &1698650765
@@ -6615,7 +6557,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1467572597}
   - {fileID: 765626634}
   showConnections: 1
 --- !u!4 &1698650767
@@ -6710,7 +6651,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 345331904}
   - {fileID: 588685215}
   showConnections: 1
 --- !u!4 &1708937367
@@ -7032,7 +6972,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 1952055150}
-  - {fileID: 769033180}
   showConnections: 1
 --- !u!4 &1796235110
 Transform:
@@ -7094,7 +7033,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 862553198}
   - {fileID: 1952055150}
   showConnections: 1
 --- !u!1 &1870693281
@@ -7142,7 +7080,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1197344336}
   - {fileID: 1244569097}
   showConnections: 1
 --- !u!1 &1890728541
@@ -7250,7 +7187,7 @@ Transform:
   m_GameObject: {fileID: 1923815454}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.359, y: 1.519, z: 0}
+  m_LocalPosition: {x: -0.352, y: 1.565, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7270,7 +7207,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 716750398}
-  - {fileID: 164482611}
   showConnections: 1
 --- !u!1 &1923839671
 GameObject:
@@ -10461,7 +10397,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 588011943}
   - {fileID: 1538863661}
   showConnections: 1
 --- !u!4 &1925564648
@@ -10571,7 +10506,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1152063608}
   - {fileID: 1084873084}
   showConnections: 1
 --- !u!1 &1940401053
@@ -10604,7 +10538,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 739023668}
   - {fileID: 1084873084}
   showConnections: 1
 --- !u!4 &1940401055
@@ -10668,9 +10601,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectedWaypoints:
   - {fileID: 1625163953}
-  - {fileID: 1807581382}
-  - {fileID: 1796235109}
-  - {fileID: 858686700}
   showConnections: 1
 --- !u!1 &1987738974
 GameObject:
@@ -10756,7 +10686,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1606116733}
   - {fileID: 1374883931}
   showConnections: 1
 --- !u!1 &2139515602
