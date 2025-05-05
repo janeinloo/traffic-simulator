@@ -16,7 +16,7 @@ public class Spawner : MonoBehaviour
 
     for (int i = 0; i < exitObjects.Length; i++)
     {
-        exitWaypoints[i] = exitObjects[i].GetComponent<Waypoint>();
+      exitWaypoints[i] = exitObjects[i].GetComponent<Waypoint>();
     }
 
     InvokeRepeating(nameof(SpawnCar), 2f, spawnInterval);
@@ -36,7 +36,7 @@ public class Spawner : MonoBehaviour
     // Choose the closest exit
     Waypoint closestExit = GetClosestExit(spawnWaypoint);
 
-    // Generate the path using A*
+    // Generate the path using A* algorithm
     var path = Pathfinding.FindPath(spawnWaypoint, closestExit);
     carScript.path = path;
   }
@@ -61,3 +61,4 @@ public class Spawner : MonoBehaviour
     return closest;
   }
 }
+
