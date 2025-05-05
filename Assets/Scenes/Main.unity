@@ -4758,8 +4758,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1606155709}
   - {fileID: 1606116733}
+  - {fileID: 1606155709}
   showConnections: 1
 --- !u!4 &1390440209
 Transform:
