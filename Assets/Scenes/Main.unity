@@ -302,7 +302,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 588011943}
   showConnections: 1
 --- !u!1 &120234180
 GameObject:
@@ -721,7 +722,7 @@ Transform:
   m_GameObject: {fileID: 174191231}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.868, y: 0.58199996, z: 0}
+  m_LocalPosition: {x: -0.868, y: 0.59, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -739,7 +740,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1478446969}
+  - {fileID: 0}
   showConnections: 1
 --- !u!1 &178029344
 GameObject:
@@ -1847,7 +1850,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1925564647}
+  - {fileID: 111770670}
   showConnections: 1
 --- !u!4 &588011944
 Transform:
@@ -3921,7 +3926,7 @@ Transform:
   m_GameObject: {fileID: 1217707947}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.61, y: 0.58199996, z: 0}
+  m_LocalPosition: {x: -5.626, y: 0.592, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3939,7 +3944,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1930271564}
+  - {fileID: 1478446969}
   showConnections: 1
 --- !u!1 &1244569095
 GameObject:
@@ -5017,7 +5024,7 @@ Transform:
   m_GameObject: {fileID: 1478446967}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.872, y: 0.581, z: 0}
+  m_LocalPosition: {x: -2.88, y: 0.597, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5035,7 +5042,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1217707949}
+  - {fileID: 174191233}
   showConnections: 1
 --- !u!1 &1538863660
 GameObject:
@@ -5066,7 +5075,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1925564647}
+  - {fileID: 0}
   showConnections: 1
 --- !u!4 &1538863662
 Transform:
@@ -9149,7 +9160,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 588011943}
+  - {fileID: 1538863661}
   showConnections: 1
 --- !u!4 &1925564648
 Transform:
@@ -9192,7 +9205,7 @@ Transform:
   m_GameObject: {fileID: 1930271562}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.69, y: 0.562, z: 0}
+  m_LocalPosition: {x: -9.708, y: 0.585, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9210,7 +9223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1217707949}
   showConnections: 1
 --- !u!1 &1936727072
 GameObject:
