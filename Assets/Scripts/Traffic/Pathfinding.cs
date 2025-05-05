@@ -19,7 +19,6 @@ public static class Pathfinding
 
       if (current == goal)
         return ReconstructPath(cameFrom, current);
-
       openSet.Remove(current);
 
       foreach (Waypoint neighbor in current.connectedWaypoints)
