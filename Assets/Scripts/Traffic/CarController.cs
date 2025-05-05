@@ -3,26 +3,31 @@ using UnityEngine;
 
 public class CarController : MonoBehaviour
 {
-  public float speed = 2f;
+  public List<Waypoint> path;
+  public float speed = 5f;
+  public float turnSpeed = 20f; // Increased for sharper turns
 
-  [Header("Pathfinding")]
-  public List<Waypoint> path = new List<Waypoint>();
-  private int pathIndex = 0;
+  int currentIndex = 0;
 
-  private void Update()
+  void Update()
   {
-    if (path == null || pathIndex >= path.Count) return;
+    if (path == null || currentIndex >= path.Count) return;
 
-    Waypoint target = path[pathIndex];
-    Vector3 direction = target.transform.position - transform.position;
+    Vector3 target = path[currentIndex].transform.position;
+    Vector3 direction = target - transform.position;
 
-    // Move towards current target waypoint
-    transform.position += direction.normalized * speed * Time.deltaTime;
-
-    // If we're close enough, move to the next waypoint
+    // Don't rotate until you're very close to current target (fixes cutting)
     if (direction.magnitude < 0.1f)
     {
-      pathIndex++;
+      currentIndex++;
+      return;
     }
+
+    // Rotate toward target sharply
+    Quaternion targetRotation = Quaternion.LookRotation(Vector3.forward, direction.normalized);
+    transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, turnSpeed * Time.deltaTime * 100f);
+
+    // Move forward along current facing
+    transform.position += transform.up * speed * Time.deltaTime;
   }
 }
