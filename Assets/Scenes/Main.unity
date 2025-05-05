@@ -517,7 +517,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 469218680}
+  - {fileID: 1923815456}
   showConnections: 1
 --- !u!1 &165132732
 GameObject:
@@ -1408,7 +1410,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1202310168}
+  - {fileID: 164482611}
   showConnections: 1
 --- !u!1 &493451990
 GameObject:
@@ -2377,7 +2381,7 @@ Transform:
   m_GameObject: {fileID: 644248951}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.34, y: 0.1, z: 0}
+  m_LocalPosition: {x: -0.344, y: 0.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2395,7 +2399,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 506933528}
+  - {fileID: 1197344336}
   showConnections: 1
 --- !u!1 &644906876
 GameObject:
@@ -3791,7 +3797,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 644248953}
+  - {fileID: 1870693283}
   showConnections: 1
 --- !u!1 &1202310166
 GameObject:
@@ -3977,7 +3985,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1870693283}
   showConnections: 1
 --- !u!1 &1268369977
 GameObject:
@@ -4165,7 +4174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectedWaypoints:
-  - {fileID: 1923815456}
+  - {fileID: 716750398}
   - {fileID: 506933528}
   showConnections: 1
 --- !u!4 &1310648918
@@ -5821,7 +5830,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 1197344336}
+  - {fileID: 1244569097}
   showConnections: 1
 --- !u!1 &1890728541
 GameObject:
@@ -5946,7 +5957,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a4092d8ca907406792924dd10506d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connectedWaypoints: []
+  connectedWaypoints:
+  - {fileID: 716750398}
+  - {fileID: 164482611}
   showConnections: 1
 --- !u!1 &1923839671
 GameObject:
