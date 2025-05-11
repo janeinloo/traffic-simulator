@@ -24,6 +24,8 @@ public class Spawner : MonoBehaviour
 
   void SpawnCar()
   {
+    if (!SimulationManager.Instance.SimulationRunning) return; // block spawning if sim is off
+
     if (carPrefab == null || spawnWaypoint == null || exitWaypoints.Length == 0)
       return;
 
@@ -61,7 +63,6 @@ public class Spawner : MonoBehaviour
     }
 
     if (candidates.Count == 0) return null;
-
     return candidates[Random.Range(0, candidates.Count)];
   }
 }
