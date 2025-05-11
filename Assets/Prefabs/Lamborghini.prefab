@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3409068482889874040}
   - component: {fileID: 913142797423931539}
   - component: {fileID: 1278603546604231123}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Lamborghini
   m_TagString: Car
   m_Icon: {fileID: 0}
@@ -175,5 +175,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11b63eb2ce7aa48769ec10a59d856081, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  path: []
   speed: 2
-  currentWaypoint: {fileID: 0}
+  turnSpeed: 20
+  carLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  conflictCheckRadius: 0.5
