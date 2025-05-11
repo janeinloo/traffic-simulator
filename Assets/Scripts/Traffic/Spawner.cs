@@ -22,6 +22,11 @@ public class Spawner : MonoBehaviour
     InvokeRepeating(nameof(SpawnCar), 2f, spawnInterval);
   }
 
+  public void SetSpawnInterval(float interval)
+  {
+    spawnInterval = interval;
+  }
+
   void SpawnCar()
   {
     if (!SimulationManager.Instance.SimulationRunning) return; // block spawning if sim is off
