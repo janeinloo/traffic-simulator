@@ -18,17 +18,28 @@ public class SimulationUI : MonoBehaviour
 
   void Start()
   {
-    playButton.onClick.AddListener(() =>
-    {
-      SimulationManager.Instance.ToggleSimulation();
-      UpdateButtonText();
-    });
-
+    playButton.onClick.AddListener(ToggleSimulation);
     UpdateButtonText();
   }
 
   void UpdateButtonText()
   {
     playButtonText.text = SimulationManager.Instance.SimulationRunning ? "Peata" : "Käivita";
+  }
+
+  public void ToggleSimulation()
+  {
+    SimulationManager.Instance.ToggleSimulation();
+    UpdateButtonText();
+
+    if (SimulationManager.Instance.SimulationRunning)
+    {
+      var spawners = FindObjectsByType<Spawner>(FindObjectsSortMode.None);
+      foreach (var spawner in spawners)
+      {
+        if (spawner.gameObject.activeInHierarchy)
+          spawner.StartSpawning();
+      }
+    }
   }
 }

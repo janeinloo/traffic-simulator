@@ -6362,40 +6362,6 @@ MonoBehaviour:
   connectedWaypoints:
   - {fileID: 255194323}
   showConnections: 1
---- !u!1 &1126602621
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1126602622}
-  m_Layer: 0
-  m_Name: Controllers/Managers
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1126602622
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1126602621}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.97065943, y: 0.2429146, z: -0.0036896702}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1605046339}
-  - {fileID: 1185888581}
-  - {fileID: 1770043206}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1152063606
 GameObject:
   m_ObjectHideFlags: 0
@@ -6815,11 +6781,11 @@ Transform:
   m_GameObject: {fileID: 1185888579}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.97065943, y: 0.2429146, z: -0.0036896702}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1126602622}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1197344334
 GameObject:
@@ -7976,7 +7942,6 @@ GameObject:
   - component: {fileID: 1418254372}
   - component: {fileID: 1418254374}
   - component: {fileID: 1418254373}
-  - component: {fileID: 1418254376}
   - component: {fileID: 1418254375}
   m_Layer: 5
   m_Name: ControlPanel
@@ -8065,25 +8030,6 @@ MonoBehaviour:
   toggleWest: {fileID: 947489681}
   applyButton: {fileID: 712800294}
   resetButton: {fileID: 1811563437}
---- !u!114 &1418254376
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1418254371}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 514e7bb7bfe914de9af5eb716850087c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spawnIntervalInput: {fileID: 0}
-  toggleNorth: {fileID: 0}
-  toggleSouth: {fileID: 0}
-  toggleEast: {fileID: 0}
-  toggleWest: {fileID: 0}
-  applyButton: {fileID: 0}
-  resetButton: {fileID: 0}
 --- !u!1 &1455803120
 GameObject:
   m_ObjectHideFlags: 0
@@ -8141,7 +8087,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "e.g. 2.0\u200B"
+  m_text: "Default: 3.0\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9250,11 +9196,11 @@ Transform:
   m_GameObject: {fileID: 1605046337}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -153.77174, y: -20.230618, z: -2.2392216}
+  m_LocalPosition: {x: -152.80109, y: -19.987703, z: -2.2429113}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1126602622}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1605046340
 MonoBehaviour:
@@ -10049,11 +9995,11 @@ Transform:
   m_GameObject: {fileID: 1770043204}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.97065943, y: 0.2429146, z: -0.0036896702}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1126602622}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1796235108
 GameObject:
@@ -14644,7 +14590,7 @@ MonoBehaviour:
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
-  m_Text: e.g. 2.0
+  m_Text: 'Default: 3.0'
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
@@ -14844,8 +14790,10 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 497392920}
   - {fileID: 223472168}
+  - {fileID: 1605046339}
+  - {fileID: 1185888581}
+  - {fileID: 1770043206}
   - {fileID: 571105153}
   - {fileID: 2141380522}
-  - {fileID: 1126602622}
   - {fileID: 2139515606}
   - {fileID: 738240103}
