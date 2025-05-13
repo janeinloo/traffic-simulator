@@ -202,3 +202,79 @@ Meie fokuseerisime LoFi prototüüpimisele, ehk me mõtlesime üle oma rakenduse
 **Järgmise nädala plaan**
 
 Plaan on näidata meie tehtud tööd ja saada sellele tagasisidet.
+
+**Nädal 11: 14.04 - 20.04**
+
+**Sissejuhatus infosüsteemidesse**
+
+Sellel nädalal oli infosüsteemide kursuse fookus ikka veel andmemudelitel. Meil oli vähemalt praeguse idee järgi loodud andmemudel olemas, seega enne loengut sellega me tegelema ei pidanud. 
+infosüsteemide loeng toimus seekord zoom-i vahendusel ning meeskonnad said oma andmemudeleid ja ka interaktsioonidisainis tehtud prototüüpe esitleda. Andmemudeli kohta saime positiivset tagasisidet, kuid õppejõud tõi välja ühe asja, mis meil oli tähelepanuta jäänud, nimelt see, et kasutajalt peaks kontot registreerides vanuse asemel küsima sünnikuupäeva, et seda automaatselt arvutataks.
+
+**Interaktsioonidisain**
+
+Ka interaktsioonidisaini aine raames jätkus sama teema, mis eelmiselgi nädalal, ehk siis madala detailsusega või LoFi prototüüpide loomine. Sellel nädalal saime meie enda figmas loodud prototüübi lõpetatud ja funktsionaalseks. Esitlesime seda ka infosüsteemide loengus ning saime ka tagasisidet. Peamiselt tekkis õppejõul küsimusi mängu enda loogika kohta, mis ka mõne koha pealt meil endal päris kindel veel ei ole, sest pole veel saanud sellega päriselt katsetama hakata. 
+Selle nädala seisuga saime ka oma LoFi prototüüpide aruande suuremas osas tehtud, kuna üks tiimiliige aga reisil viibis ei saanud me seda veel täielikult valmis.
+
+**Järgmise nädala plaan**
+
+Järgmisel nädalal peaksime juba mängu endaga tegelema hakkama, sest plaanime kasutada oma  mängu nii üldotstarbeliste arendusplatvormide, kui ka testimise aluste projektide jaoks. Samuti peame lõpetama ja esitama oma LoFi prototüübi.
+
+**Nädal 12: 21.04 - 27.04**
+
+**Sissejuhatus infosüsteemidesse**
+
+Sellel nädalal jätkasime andmemudeliga, nimelt tegime valmis andmemudeli objektide kirjelduse, kus selgitasime iga tabeli sisu ja tähendust. Lisaks alustasime CRUD maatriksi loomist. Ka andmebaasi endaga tegime algust, et saaks seal näitepäringuid luua. 
+Hakkasime ka oma infosüsteemi projekti esitluse jaoks vaikselt ettevalmistusi tegema, tegime veel viimistlusi oma failis, kohtades kus oskasime, aga tööd on veel teha üsna palju.
+
+**Interaktsioonidisain**
+
+Lõpetasime sellel nädalal oma LoFi prototüübi ning esitasime õppejõule ka aruande, tööd oli selle kallal kõvasti, sest mängu on ikka üsna palju keerulisem prototüüpida kui näiteks veebilehte. Interaktsioonidisaini praktikumis alustasime sel nädalal detailsete prototüüpide koostamist, saime aga aru, et Figmas on meil oma projektile detailset prototüüpi luua üsna keeruline. Seega otsustasime teha unity-s kolm testtaset ja ka mängu veebilehte vaikselt looma hakata. Unity tasemeid on meil nagunii vaja üldotsarbeliste arendusplatvormide tunnis, seega saab loodetavasti mitu kärbest ühe hoobiga.
+
+**Järgmise nädala plaan:**
+
+Järgmisel nädalal, siis kui kogu tiim jälle olemas on, plaanime hakata looma oma mängule esialgseid tasemeid, mida saaks kasutada nii üldotstarbeliste arendusplatvormide projektina, kui ka interaktsioonidisainis HiFi prototüübina. Samuti peame tööle asuma infosüsteemi projekti esitluse kallal.
+
+**Nädal 13: 28.04 - 04.05**
+
+**Sissejuhatus infosüsteemidesse**
+
+Infosüsteemide aines toimus sellel nädalal viimane loeng/praktikum, kus tiimid said õppejõule kohapeal projektid viimast korda enne kaitsmist ette näidata ja tagasisidet saada.
+Meil oli vaja abi CRUD maatriksi lõpetamisega ja seda ka õppejõult saime. Samuti lisasime oma projekti dokumenti andmebaasi insert ja select päringud. Nüüd on vaja veel lisada kasutajaliidese vaated ning teha viimased viimistlused, et saaks järgmisel nädalal oma infosüsteemi projekti ära kaitsta.
+
+**Interaktsioonidisain**
+
+Osalesime esmaspäevases loengus. Loengu teemaks oli detailse prototüüpide testimine. See on süsteemi arendamise protsessi faas, kus hinnatakse juba loodud detailseid prototüüpe. Eesmärk on tuvastada kasutatavuse probleeme enne lõpliku süsteemi arendamist.
+Hinnang keskendub prototüüpide kasutusmugavusele, tõhususele ja kasutajate rahulolule. Protsessi käigus viiakse läbi kasutajatestid, kus kasutajad sooritavad ülesandeid, mille abil saadakse teavet prototüübi toimivuse ja kasutajaliidese loogilisuse kohta. Testimise tulemusi analüüsitakse, et teha parandusi disainis. 
+
+**Järgmise nädala plaan:**
+
+Plaan on teha ära interaktsioonidisaini raames detailne ehk HiFi prototüüp, millega oleme umbes poole peal ja siis leida inimesi, kes meie mängu testiksid.
+Infosüsteemide aines peame lõpetama ära oma dokumendi ja seda siis järgmisel kolmapäeval juba kaitsma.
+
+**Nädal 14: 05.05 - 11.05**
+
+**Sissejuhatus infosüsteemidesse**
+
+Sellel nädalal toimus infosüsteemide aine raames projekti lõplik esitlus. Olime eelnevalt saanud õppejõult kasulikku tagasisidet ning viimistlesime enne esitlust nii dokumentatsiooni kui ka kasutajaliidest. Esitlusel tutvustasime oma infosüsteemi toimimist, näitasime andmebaasipäringute näiteid ning selgitasime, kuidas lahendasime erinevaid arendusprotsessi käigus tekkinud probleeme. Kokkuvõttes läks esitlus hästi ning saime väärtuslikku tagasisidet oma töö kohta.
+
+**Interaktsioonidisain**
+
+Selle nädala fookus oli interaktsioonidisaini kursuse esitluse ettevalmistamisel. Viimistlesime oma HiFi prototüüpi, tegime väikseid parandusi kasutajatestide tagasiside põhjal ning valmistasime esitluse slaidid. Keskendusime sellele, et meie esitlus selgitaks selgelt mängu eesmärki, kasutajakogemust ja prototüübi arendusprotsessi.
+**Järgmise nädala plaan:**
+
+Järgmisel nädala esmaspäeval toimub interaktsioonidisainis presentatsioon. Meie plaan on oma terve semestri tehtud tööd esitleda ning anda sellest ülevaade.
+
+**Nädal 15:  12.05 - 17.05**
+
+**Sissejuhatus infosüsteemidesse**
+
+Kui eelmisel nädalal esitlesime oma projekti, siis sel nädalal saime kuulata teiste rühmade esitlusi ja anda neile tagasisidet. Ühtlasi oli see meie viimane loeng kursusel Sissejuhatus infosüsteemidesse. Kursus oli väga huvitav ning andis hea ülevaate sellest, kuidas infosüsteemide dokumentatsioon ja arendusprotsess võiks toimuda.
+
+**Interaktsioonidisain**
+
+Sel nädalal toimus ka Interaktsioonidisaini kursuse viimane loeng. Koostasime slaidiesitluse kursuse ajal tehtud tööde põhjal (konkurentsianalüüs, persoonad ja stsenaariumid, kasutajalood ja skeemid, LoFi ja HiFi prototüübid) ning esitlesime seda teistele rühmadele. Nii sai ka see kursus edukalt lõpetatud.
+
+**Järgmise nädala plaan**
+
+Loenguid meil enam ei toimu. Nüüd ootame põnevusega 9. juunit, mil algab meie rakenduse arendusperiood, mis kestab kuni 20. juunini. Seni proovime selleks valmistuda ning võimalusel arendustöödega juba varakult alustada, et vältida ajapuudust ja tagada rakenduse valmimine õigeks ajaks.
+
