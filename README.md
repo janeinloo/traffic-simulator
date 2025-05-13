@@ -260,6 +260,7 @@ Sellel nädalal toimus infosüsteemide aine raames projekti lõplik esitlus. Oli
 **Interaktsioonidisain**
 
 Selle nädala fookus oli interaktsioonidisaini kursuse esitluse ettevalmistamisel. Viimistlesime oma HiFi prototüüpi, tegime väikseid parandusi kasutajatestide tagasiside põhjal ning valmistasime esitluse slaidid. Keskendusime sellele, et meie esitlus selgitaks selgelt mängu eesmärki, kasutajakogemust ja prototüübi arendusprotsessi.
+
 **Järgmise nädala plaan:**
 
 Järgmisel nädala esmaspäeval toimub interaktsioonidisainis presentatsioon. Meie plaan on oma terve semestri tehtud tööd esitleda ning anda sellest ülevaade.
