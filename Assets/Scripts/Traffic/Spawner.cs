@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class Spawner : MonoBehaviour
 {
@@ -10,55 +11,55 @@ public class Spawner : MonoBehaviour
 
   void Start()
   {
-    // Cache all exit waypoints (tagged "Exit")
     GameObject[] exitObjects = GameObject.FindGameObjectsWithTag("Exit");
     exitWaypoints = new Waypoint[exitObjects.Length];
-
     for (int i = 0; i < exitObjects.Length; i++)
-    {
       exitWaypoints[i] = exitObjects[i].GetComponent<Waypoint>();
-    }
+  }
 
+  public void StartSpawning()
+  {
     InvokeRepeating(nameof(SpawnCar), 2f, spawnInterval);
+  }
+
+  public void SetSpawnInterval(float interval)
+  {
+    spawnInterval = interval;
   }
 
   void SpawnCar()
   {
     if (carPrefab == null || spawnWaypoint == null || exitWaypoints.Length == 0)
-    {
-      Debug.LogWarning("Spawner is missing prefab or exit points!");
       return;
-    }
 
-    GameObject car = Instantiate(carPrefab, spawnWaypoint.transform.position, Quaternion.identity);
+    Waypoint chosenExit = GetRandomExit(spawnWaypoint);
+    if (chosenExit == null) return;
+
+    var path = Pathfinding.FindPath(spawnWaypoint, chosenExit);
+    if (path == null || path.Count < 2) return;
+
+    Vector3 nextDir = path[1].transform.position - path[0].transform.position;
+    Quaternion instantRotation = Quaternion.LookRotation(Vector3.forward, nextDir.normalized);
+
+    GameObject car = Instantiate(carPrefab);
+    car.transform.rotation = instantRotation;
+
+    Vector3 offset = -car.transform.up * 0.5f;
+    car.transform.position = spawnWaypoint.transform.position + offset;
+
     CarController carScript = car.GetComponent<CarController>();
-
-    // Choose the closest exit
-    Waypoint closestExit = GetClosestExit(spawnWaypoint);
-
-    // Generate the path using A* algorithm
-    var path = Pathfinding.FindPath(spawnWaypoint, closestExit);
-    carScript.path = path;
+    carScript.InitializePath(path);
   }
 
-  Waypoint GetClosestExit(Waypoint from)
+  Waypoint GetRandomExit(Waypoint from)
   {
-    Waypoint closest = null;
-    float minDist = Mathf.Infinity;
-
+    List<Waypoint> candidates = new List<Waypoint>();
     foreach (var exit in exitWaypoints)
     {
       if (exit == null) continue;
-
-      float dist = Vector3.Distance(from.transform.position, exit.transform.position);
-      if (dist < minDist)
-      {
-        minDist = dist;
-        closest = exit;
-      }
+      if (exit.name.Contains(from.name.Split('_')[1])) continue;
+      candidates.Add(exit);
     }
-
-    return closest;
+    return candidates.Count == 0 ? null : candidates[Random.Range(0, candidates.Count)];
   }
 }
-
