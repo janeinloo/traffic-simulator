@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trafficgame_menu_background 2025-05-21 131204_0: -3700091685511572901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
