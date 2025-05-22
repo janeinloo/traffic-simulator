@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5ff79c7883713451095a2ed898c656c8
+guid: 2086268605dd65d47a34e12208530fa8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 481439861047727506
-    second: "Liiklusma\u0308ng-6_0"
+      213: -2234536376563470057
+    second: "\xD5petusPealkiri_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Liiklusma\u0308ng-6_0"
+      name: "\xD5petusPealkiri_0"
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 3205
-        height: 608
+        y: 15
+        width: 391
+        height: 138
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 295967ab00b6ea600800000000000000
-      internalID: 481439861047727506
+      spriteID: 711fe3d21055df0e0800000000000000
+      internalID: -2234536376563470057
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      "Liiklusma\u0308ng-6_0": 481439861047727506
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

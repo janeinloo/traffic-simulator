@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 5ff79c7883713451095a2ed898c656c8
+guid: c2f7f8ad2803e724486a70db79addeaa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 481439861047727506
-    second: "Liiklusma\u0308ng-6_0"
+      213: 6727680781909803715
+    second: kontoandmed_0
+  - first:
+      213: 1315687610123508840
+    second: kontoandmed_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Liiklusma\u0308ng-6_0"
+      name: kontoandmed_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 3205
-        height: 608
+        y: 32
+        width: 326
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 295967ab00b6ea600800000000000000
-      internalID: 481439861047727506
+      spriteID: 3c2c4ffb6068d5d50800000000000000
+      internalID: 6727680781909803715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kontoandmed_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 32
+        width: 437
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c5bcc19e2424210800000000000000
+      internalID: 1315687610123508840
       vertices: []
       indices: 
       edges: []
@@ -147,8 +172,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      "Liiklusma\u0308ng-6_0": 481439861047727506
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
