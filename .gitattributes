@@ -1,0 +1,19 @@
+# Force LF line endings for all text files
+* text=auto eol=lf
+
+# Enforce LF for C# scripts
+*.cs text eol=lf
+
+# Enforce LF for shaders and text files
+*.shader text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.yml text eol=lf
+
+# Binary files - no line ending conversions
+*.png binary
+*.jpg binary
+*.fbx binary
+*.unity binary
+*.prefab binary

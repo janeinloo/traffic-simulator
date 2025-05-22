@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5ff79c7883713451095a2ed898c656c8
+guid: c1c5869e5d39d154db46fc7a23730e03
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 481439861047727506
-    second: "Liiklusma\u0308ng-6_0"
+      213: -6218293054503451676
+    second: leveli_nupp (5)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Liiklusma\u0308ng-6_0"
+      name: leveli_nupp (5)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 3205
-        height: 608
+        x: 3
+        y: 3
+        width: 133
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 295967ab00b6ea600800000000000000
-      internalID: 481439861047727506
+      spriteID: 4e30b01b96f24b9a0800000000000000
+      internalID: -6218293054503451676
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Liiklusma\u0308ng-6_0": 481439861047727506
+      leveli_nupp (5)_0: -6218293054503451676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
